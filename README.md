@@ -1,10 +1,4 @@
-# 👋 Hi, I am Mihalis Tsoukalos
-
-**UNIX Systems Engineer** and **Technical Author**
-
----
-
-## 🧑‍💻 About Me
+# Hi, I am Mihalis Tsoukalos
 
 - **Profession:** UNIX Systems Engineer and Technical Author
 - **Expertise:** Go | Python | C | Zig
@@ -21,8 +15,6 @@
   Time series data mining, Machine Learning, and Databases
 
 ---
-
-## 📊 Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactsouk&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
