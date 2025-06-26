@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Mihalis Tsoukalos
+# 👋 Hi, I am Mihalis Tsoukalos
 
-**UNIX Systems Engineer** & **Technical Author**
+**UNIX Systems Engineer** and **Technical Author**
 
 ---
 
