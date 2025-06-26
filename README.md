@@ -25,7 +25,6 @@
 ## 📊 Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mactsouk&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&hide=prs,issues&count_private=true&theme=default" alt="mactsouk's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactsouk&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 </p>
 
