@@ -6,7 +6,7 @@
   - BSc in Mathematics, University of Patras  
   - MSc in IT, University College London  
 - **Books:**  
-  - *Mastering Go*
+  - [*Mastering Go*](https://github.com/mactsouk/mGo4th)
   - *Go Systems Programming*
   - *Time Series Indexing*
 - **Published In:**  
