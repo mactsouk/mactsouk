@@ -15,11 +15,9 @@
   Time series data mining, Machine Learning, and Databases
 
 ---
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mactsouk&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 </p>
-
 ---
 
 <!--
