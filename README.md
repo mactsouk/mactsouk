@@ -6,6 +6,7 @@
   - BSc in Mathematics, University of Patras  
   - MSc in IT, University College London  
 - **Books:**
+  - [*Systems Programming with Zig*](https://github.com/mactsouk/zigSP)
   - [*Practical Systems Programming in Go*](https://www.amazon.com/Practical-Systems-Programming-hands-real-world/dp/1806112191/) 
   - [*Mastering Go*](https://github.com/mactsouk/mGo4th)
   - *Go Systems Programming*
@@ -13,7 +14,7 @@
 - **Published In:**  
   Sys Admin, MacTech, C/C++ Users Journal, USENIX ;login:, Linux Journal, Linux User and Developer, Linux Format, Linux Voice  
 - **Research Interests:**  
-  Time series data mining, Machine Learning, and Databases
+  Time series data mining, Machine Learning and Databases
 
 
 <!--
