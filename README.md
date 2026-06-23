@@ -6,7 +6,7 @@
   - BSc in Mathematics, University of Patras  
   - MSc in IT, University College London  
 - **Books:**
-  - [*Systems Programming with Zig*](https://github.com/mactsouk/zigSP) [Packt](https://www.packtpub.com/en-gr/product/systems-programming-with-zig-9781807426422)
+  - [*Systems Programming with Zig*](https://github.com/mactsouk/zigSP) – [Packt page](https://www.packtpub.com/en-gr/product/systems-programming-with-zig-9781807426422)
   - [*Practical Systems Programming in Go*](https://www.amazon.com/Practical-Systems-Programming-hands-real-world/dp/1806112191/) 
   - [*Mastering Go*](https://github.com/mactsouk/mGo4th)
   - *Go Systems Programming*
